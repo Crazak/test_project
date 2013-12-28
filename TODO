@@ -1,5 +1,9 @@
 1.Learn to make commits
 2.Modified file
 3.new change
+<<<<<<< HEAD
 4. new change
 branching visualization test
+=======
+4.branch test change
+>>>>>>> test-2
